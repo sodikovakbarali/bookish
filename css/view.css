@@ -1,0 +1,16 @@
+#userAccountImg {
+	height: 40px;
+	float: left;
+	width: 40px;
+}
+
+.justForSpacing {
+	margin: 70px !important;
+}
+
+
+.avatar {
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+}
